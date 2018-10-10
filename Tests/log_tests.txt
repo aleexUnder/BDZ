@@ -1,0 +1,62 @@
+2018-06-21 19:58:06.219562
+1 inputs: 0.5 sec
+2 inputs: 1.0 sec
+4 inputs: 1.7 sec
+6 inputs: 2.6 sec
+8 inputs: 3.5 sec
+12 inputs: 5.2 sec
+_____________________________________
+
+2018-06-22 10:55:00.457729
+1 inputs: 0.5 sec
+2 inputs: 0.9 sec
+4 inputs: 1.8 sec
+6 inputs: 3.1 sec
+8 inputs: 3.5 sec
+12 inputs: 5.2 sec
+_____________________________________
+
+2018-06-22 11:01:12.923922
+1 inputs: 0.5 sec
+2 inputs: 0.9 sec
+4 inputs: 1.8 sec
+6 inputs: 3.0 sec
+8 inputs: 3.5 sec
+12 inputs: 5.2 sec
+_____________________________________
+
+2018-06-22 11:03:20.036662
+1 inputs: 0.5 sec
+2 inputs: 0.9 sec
+4 inputs: 1.8 sec
+6 inputs: 3.0 sec
+8 inputs: 3.6 sec
+12 inputs: 6.0 sec
+_____________________________________
+
+2018-06-22 11:05:11.719316
+1 inputs: 0.5 sec
+2 inputs: 0.9 sec
+4 inputs: 1.8 sec
+6 inputs: 2.6 sec
+8 inputs: 3.4 sec
+12 inputs: 5.1 sec
+_____________________________________
+
+2018-06-22 11:06:47.972539
+1 inputs: 0.7 sec
+2 inputs: 0.9 sec
+4 inputs: 1.7 sec
+6 inputs: 2.6 sec
+8 inputs: 3.5 sec
+12 inputs: 5.1 sec
+_____________________________________
+
+2018-06-22 13:27:09.340787
+1 inputs: 0.7 sec
+2 inputs: 1.1 sec
+4 inputs: 2.1 sec
+6 inputs: 3.2 sec
+8 inputs: 4.2 sec
+12 inputs: 6.6 sec
+_____________________________________

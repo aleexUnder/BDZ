@@ -1,0 +1,9 @@
+C:\Users\Дима\Desktop\parser\bin\Debug\parser.exe.config
+C:\Users\Дима\Desktop\parser\bin\Debug\parser.exe
+C:\Users\Дима\Desktop\parser\bin\Debug\parser.pdb
+C:\Users\Дима\Desktop\parser\obj\Debug\parser.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Desktop\parser\obj\Debug\parser.exe
+C:\Users\Дима\Desktop\parser\obj\Debug\parser.pdb
+H:\БДЗ ИП\parser\bin\Debug\parser.exe.config
+H:\БДЗ ИП\parser\obj\Debug\parser.exe
+H:\БДЗ ИП\parser\obj\Debug\parser.pdb
